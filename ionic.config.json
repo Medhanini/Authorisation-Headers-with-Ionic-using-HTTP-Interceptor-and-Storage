@@ -1,0 +1,8 @@
+{
+  "name": "Authorisation-Headers-with-Ionic-using-HTTP-Interceptor-and-Storage",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
